@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ Jair-Randy -
-- 👀 Me interesa la programacion orientada a los sistemas embebidos.
+- 👀 Me interesa la programacion orientada a los sistemas electronicos.
 - 🌱 Actualmente estoy aprendiendo lenguajes como Python y C. 
 - ⚡ Me gusta programar microcontroladores. 
 <!---
